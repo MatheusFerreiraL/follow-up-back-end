@@ -3,7 +3,7 @@
 
 ## Implementação de Api para sistemas de Biblioteca
 
-A API precisa se conecta com um banco de dados `postgreSQL` chamado `biblioteca` e todo código de criação das tabelas está no arquivo `dump.sql`
+A API se conecta com um banco de dados `postgreSQL` chamado `biblioteca` e todo código de criação das tabelas está no arquivo `dump.sql`
 
 1 - Tabela chamada `autores` contendo as seguintes características:
 
